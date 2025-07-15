@@ -42,7 +42,7 @@ Cada subcarpeta debe contener un archivo `.json` con el mismo nombre que la carp
 
 ```powershell
 .\actualizar-json.ps1
-```
+
 
 🛠️ Requisitos
 PowerShell 5.1 o superior (incluido en Windows 10+)
@@ -69,3 +69,4 @@ Este proyecto es de uso libre. Puedes modificar, distribuir y reutilizar el cód
 Samir Vergara
 Desarrollador de software
 GitHub [https://github.com/web-v2]
+```
