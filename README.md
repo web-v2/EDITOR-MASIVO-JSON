@@ -8,11 +8,11 @@ Este script automatiza la modificación de archivos `.json` ubicados en subdirec
 
 El script asume la siguiente estructura:
 
-📁 CarpetaRaiz
-├── 📁 SubCarpeta1
-│ └── SubCarpeta1.json
-├── 📁 SubCarpeta2
-│ └── SubCarpeta2.json
+📁 CarpetaRaiz<br>
+├── 📁 SubCarpeta1<br>
+│ └── SubCarpeta1.json<br>
+├── 📁 SubCarpeta2<br>
+│ └── SubCarpeta2.json<br>
 └── ...
 
 Cada subcarpeta debe contener un archivo `.json` con el mismo nombre que la carpeta.
@@ -73,10 +73,10 @@ Puedes versionar los cambios con Git para mayor seguridad.
 
 ## 🧪 Ejemplo de Salida
 
--✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta1\SubCarpeta1.json
--✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta2\SubCarpeta2.json
--📌 Último valor asignado: NA0002
--🏁 Todos los archivos procesados.
+- ✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta1\SubCarpeta1.json
+- ✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta2\SubCarpeta2.json
+- 📌 Último valor asignado: NA0002
+- 🏁 Todos los archivos procesados.
 
 ## 📄 Licencia
 
