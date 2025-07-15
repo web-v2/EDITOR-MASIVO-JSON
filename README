@@ -42,7 +42,22 @@ Cada subcarpeta debe contener un archivo `.json` con el mismo nombre que la carp
 
 ```powershell
 .\actualizar-json.ps1
+```
 
+✅ ¿Cómo ejecuto mi script .ps1?
+
+1. Abre PowerShell.
+2. Ve al directorio donde está el script:
+
+```powershell
+cd "C:\Ruta\A\Tu\Script"
+```
+
+Ejecuta:
+
+```powershell
+.\actualizar-json.ps1
+```
 
 🛠️ Requisitos
 PowerShell 5.1 o superior (incluido en Windows 10+)
@@ -69,4 +84,7 @@ Este proyecto es de uso libre. Puedes modificar, distribuir y reutilizar el cód
 Samir Vergara
 Desarrollador de software
 GitHub [https://github.com/web-v2]
+
+```
+
 ```
