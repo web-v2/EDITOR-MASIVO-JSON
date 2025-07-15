@@ -59,32 +59,33 @@ Ejecuta:
 .\actualizar-json.ps1
 ```
 
-🛠️ Requisitos
+## 🛠️ Requisitos
+
 PowerShell 5.1 o superior (incluido en Windows 10+)
 Permisos de escritura en los archivos .json
 
-✅ Recomendaciones
+## ✅ Recomendaciones
+
 Haz un respaldo de los archivos antes de ejecutar el script.
 Valida que los archivos .json tengan el mismo nombre que sus carpetas.
 Si necesitas hacer pruebas, duplica una carpeta y observa el resultado antes de ejecutar el script en producción.
 Puedes versionar los cambios con Git para mayor seguridad.
 
-🧪 Ejemplo de Salida
+## 🧪 Ejemplo de Salida
+
 ✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta1\SubCarpeta1.json
 ✅ Modificado: D:\...Ruta...\LOTE1\SubCarpeta2\SubCarpeta2.json
 📌 Último valor asignado: NA0002
 🏁 Todos los archivos procesados.
 
-📄 Licencia
+## 📄 Licencia
+
 MIT License
 
 Este proyecto es de uso libre. Puedes modificar, distribuir y reutilizar el código. Si lo usas o mejoras, ¡una mención siempre es bienvenida!
 
-👤 Autor
+## 👤 Autor
+
 Samir Vergara
 Desarrollador de software
 GitHub [https://github.com/web-v2]
-
-```
-
-```
